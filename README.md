@@ -67,6 +67,10 @@ The E-Learning Platform UI Design demonstrates the ability to build a functional
 
 Made with ❤️ by Ashwini Hosamani
 
+Live Demo: https://ashwini-hosamani.github.io/E-LEARNING-PLATFORM/
+
+GitHub Repository: 
+
 ##OUTPUT
 
 <img width="1361" height="633" alt="Image" src="https://github.com/user-attachments/assets/92b3defa-aabe-40be-a606-dc7e53714935" />
