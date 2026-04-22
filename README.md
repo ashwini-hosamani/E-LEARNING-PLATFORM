@@ -69,7 +69,7 @@ Made with ❤️ by Ashwini Hosamani
 
 Live Demo: https://ashwini-hosamani.github.io/E-LEARNING-PLATFORM/
 
-GitHub Repository: 
+GitHub Repository: https://github.com/ashwini-hosamani/E-LEARNING-PLATFORM
 
 ##OUTPUT
 
